@@ -140,10 +140,11 @@ h3 {
   margin-top: 30px;
   display: flex;
   justify-content: center;
-  border: solid ;
-  border-color: darkgrey;
+  /* border: solid ;
+  border-color: darkgrey; */
   flex-direction: column;
-  background-color: #eee;
+  /* background-color: #eee; */
+  height: auto;
 }
 .app .todos .todo {
   margin-top: 0.8em;
